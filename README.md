@@ -1,6 +1,7 @@
 # Posted - Instagram-like App
 
 [![Android Release](https://github.com/izier/posted/actions/workflows/dart.yml/badge.svg)](https://github.com/izier/posted/actions/workflows/dart.yml)
+
 Posted is a simple social media app that takes inspiration from Instagram and built with Flutter. It is connected to [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API for its data needs.
 
 ## Features
