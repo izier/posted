@@ -12,12 +12,6 @@ Posted is a simple social media app that takes inspiration from Instagram and bu
 ## Dependencies
 
 The Posted app utilizes the following dependencies:
-
-  http: ^0.13.0
-  persistent_bottom_nav_bar: ^5.0.2
-  cached_network_image: ^3.2.3
-  url_launcher: ^6.1.11
-
 - [http](https://pub.dev/packages/http) (version 0.13.0): A package for making HTTP requests.
 - [persistent_bottom_nav_bar](https://pub.dev/packages/persistent_buttom_nav_bar) (version 5.0.2): A package for building a better looking bottom navigation bar.
 - [cached_network_image](https://pub.dev/packages/cached_network_image) (version 3.2.3): Caches network images and keeps them in the cache directory.
